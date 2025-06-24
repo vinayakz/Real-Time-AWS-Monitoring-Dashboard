@@ -1,5 +1,6 @@
 # 🚀 AWS CloudWatch Log Analyzer & Real-Time EC2 Dashboard
 
+[![Amazon](https://img.shields.io/badge/Amazon-Q-orange)](https://aws.amazon.com/q/)
 [![Python](https://img.shields.io/badge/Python-3.12+-blue)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)](https://streamlit.io)
 [![AWS](https://img.shields.io/badge/AWS-CloudWatch%20%7C%20EC2-orange)](https://aws.amazon.com)
@@ -8,7 +9,7 @@ A professional-grade, enterprise-ready application for comprehensive AWS infrast
 
 ## 🌟 Live Demo
 
-**🎯 Real-Time Dashboard:** [http://13.232.173.188:8080/](http://13.232.173.188:8080/)
+**🎯 Real-Time Dashboard:** 
 - ✅ Live EC2 instance monitoring
 - ✅ Real-time CloudWatch metrics
 - ✅ Cost analysis and optimization
@@ -44,8 +45,6 @@ A professional-grade, enterprise-ready application for comprehensive AWS infrast
 
 ### Option 1: Access Live Dashboard (Recommended)
 ```bash
-# Simply open in your browser:
-http://13.232.173.188:8080/
 
 # Features:
 # ✅ No setup required
@@ -419,7 +418,6 @@ git push origin feature/your-feature
 ## 📞 Support & Contact
 
 ### **Live Dashboard Support**
-- 🌐 **Dashboard URL**: [http://13.232.173.188:8080/](http://13.232.173.188:8080/)
 - 📊 **Status**: ✅ Live and monitoring
 - 🔄 **Updates**: Auto-refresh every 30 seconds
 - 📈 **Uptime**: 99.9% availability
@@ -462,7 +460,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ **DevOps Practices**: Automated deployment and monitoring
 - ✅ **Business Value**: Real cost optimization and insights
 
-**🚀 Ready to explore your AWS infrastructure? [Start monitoring now!](http://13.232.173.188:8080/)**
+**🚀 Ready to explore your AWS infrastructure?
 
 ---
 
