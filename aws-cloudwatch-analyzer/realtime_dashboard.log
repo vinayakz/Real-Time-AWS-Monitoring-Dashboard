@@ -1,0 +1,58 @@
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://0.0.0.0:8080
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:58: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  end_time = datetime.utcnow()
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:79: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  end_time = datetime.utcnow()
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:58: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:79: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:58: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:79: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:58: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:79: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:58: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:79: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:58: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:79: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:58: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+/home/ubuntu/aws-cloudwatch-analyzer/src/realtime_ec2_dashboard.py:79: DeprecationWarning:
+
+datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+
+  Stopping...
