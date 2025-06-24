@@ -1,6 +1,5 @@
 # 🚀 AWS CloudWatch Log Analyzer & Real-Time EC2 Dashboard
 
-[![Status](https://img.shields.io/badge/Status-Live%20%26%20Running-brightgreen)](http://13.232.173.188:8080/)
 [![Python](https://img.shields.io/badge/Python-3.12+-blue)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red)](https://streamlit.io)
 [![AWS](https://img.shields.io/badge/AWS-CloudWatch%20%7C%20EC2-orange)](https://aws.amazon.com)
